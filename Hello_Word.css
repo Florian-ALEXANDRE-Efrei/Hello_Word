@@ -1,0 +1,40 @@
+/* Essaye de jouer le jeu s'il te plaît 
+ne va pas chercher la réponse dans le code source */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(155, 49, 255);
+    background-color: rgb(10, 2, 12);
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid rgb(155, 49, 255);
+}
+
+tr td {
+    border: 2px solid rgb(155, 49, 255);
+}
+
+td {
+    width: 1%;
+    height: 1%;
+    text-align: center;
+}
+
+#Hello_Word_Result {
+    padding-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#Hello_Word_Start {
+    padding-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
